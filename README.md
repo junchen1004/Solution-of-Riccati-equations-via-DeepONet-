@@ -1,4 +1,4 @@
-# Solution-of-Riccati-equations-via-DeepONet-
+# Solution-of-Riccati-equations-via-DeepONet
 This repository contains reproducible Python implementations for solving Algebraic and Differential Riccati Equations using DeepONet.
 
 <img src="https://github.com/DCN-FAU-AvH/DeepONet-Riccati/blob/main/Predict_P_10D.png" width="70%" height="70%" >
